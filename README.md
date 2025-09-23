@@ -1,2 +1,2 @@
 # Resources__
-  **ui-tools:** (url)[https://tools.ui-layouts.com/]
+ - **ui-tools:**[url](https://tools.ui-layouts.com/)

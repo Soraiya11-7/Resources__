@@ -6,4 +6,4 @@
  - **[static-badges](https://shields.io/docs/static-badges)**
  - **[shera_Ui](https://seraui.com/)**
  - **[storyset_illustration](https://storyset.com/illustration)**
- - **[js-interview-ques]([https://storyset.com/illustration](https://github.com/sudheerj/javascript-interview-questions))**
+ - **[js-interview-ques](https://github.com/sudheerj/javascript-interview-questions)**
